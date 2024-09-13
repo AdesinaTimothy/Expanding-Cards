@@ -65,4 +65,16 @@ body {
     .panel:nth-of-type(5) {
         display: none;
     }
+
+    .panel {
+      height: 60vh;
+      border-radius: 30px;
+      color: #fff;
+      cursor: pointer;
+    }
+
+    .panel.active {
+      flex: 5;
+      border-radius: 50px;
+    }
 }

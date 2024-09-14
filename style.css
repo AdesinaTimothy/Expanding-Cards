@@ -71,6 +71,7 @@ body {
       border-radius: 30px;
       color: #fff;
       cursor: pointer;
+      margin: 10px;
     }
 
     .panel.active {

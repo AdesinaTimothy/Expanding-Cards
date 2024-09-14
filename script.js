@@ -22,5 +22,5 @@ const removeActiveClasses = () => {
 // divs.addEventListeners
 divcontainer.addEventListener('click', expandCard);
 
-
+//TimoBest Contribution
 
